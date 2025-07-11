@@ -43,7 +43,7 @@ Run the application: (If applicable, adjust based on your project's setup)
 
 npm start # Or `yarn start`
 
-Open your browser and navigate to http://localhost:3000 (or the port indicated by your development server).
+Open your browser and navigate to qrgenratorpro.netlify.app (or the port indicated by your development server).
 
 🛠️ Technologies Used
 This project leverages modern web technologies to deliver a robust and responsive experience:
